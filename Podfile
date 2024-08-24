@@ -6,6 +6,7 @@ target 'AdmobDemoFile' do
   use_frameworks!
 
   # Pods for AdmobDemoFile
+#  pod 'FBAudienceNetwork'
   pod 'Google-Mobile-Ads-SDK'
 
 end
